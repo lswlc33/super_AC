@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>img/logo.ico</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/down.png</file>
+    <file>img/snow.png</file>
+    <file>img/sun.png</file>
+    <file>img/up.png</file>
+    <file>img/mimisize.png</file>
+    <file>img/close.png</file>
+  </qresource>
+</RCC>
