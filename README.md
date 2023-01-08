@@ -3,6 +3,9 @@
 >仿真空调
 # 特性
 `完全拟真`    `智能调节`    `一键控制`
+# 安全
+莫名奇妙收到的检测邮件，不过给的东西还挺酷  
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1611616959213371392.svg)](https://www.murphysec.com/accept?code=f3a4d5d3d4ea900cfc75ca4c3d8e67d7&type=1&from=2&t=2)
 # 功能
 1.打开关闭空调功能  
 2.在合理的温度限制下调节空调温度  
